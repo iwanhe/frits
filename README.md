@@ -89,6 +89,7 @@ Requester tracks status until closed
    - Any hard-coded intranet/portal URLs used for session timeout redirects
    - Print/report plugin service endpoint and API key (if used)
 3. Re-point the workflow task definitions' notification templates (email sender, links) to your own domain.
+4. Demo: https://oracleapex.com/ords/r/kcsi/form-request-it/login
 
 > **Note:** This export originates from a live internal system. Company name, internal URLs, and staff names referenced during development have been generalized/redacted in this README and in the accompanying screenshot before publishing.
 
@@ -100,8 +101,4 @@ This repository is part of my **Oracle ACE Apprentice Program — Product Usage 
 
 **Iwan Herdian**
 Oracle APEX / Oracle EBS practitioner
-GitHub: [iwanhe/oracle-ace](https://github.com/iwanhe/oracle-ace)
-
-## License
-
-Add a license of your choice (e.g., MIT) if you intend this repository to be reused by others.
+GitHub: [iwanhe](https://github.com/iwanhe)
